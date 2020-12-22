@@ -9,5 +9,5 @@ yarn create react-app api-intergrate
 
 ## 2. 필요한 패키지 설치하기
 ```
-yarn add axios
+yarn add axios react-async
 ```
